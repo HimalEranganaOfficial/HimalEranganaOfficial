@@ -21,8 +21,8 @@ currently_working_on:
   - Writing a Scientific Research Article
   - py3-n8n (ongoing open source project)
 fun_facts:
-  - I learn Russian & Chess on Duolingo ♟️🇷🇺
-  - I work as an assistant for a Russian-Sinhala-English translator
+  - I learn Русский & Chess on Duolingo ♟️🇷🇺
+  - I work as an assistant for a Русский-සිංහල-English translator
   - I love watching Sci-Fi movies 🎬
   - My favourite food is කොත්තු 🍛
 philosophy: "I don't focus on what to learn — I build things that matter, and learn whatever it takes to make them real."
