@@ -191,7 +191,7 @@ I'm open to **freelance gigs**, **internships**, and **collaborations** — espe
 
 <div align="center">
 
-  ![Profile Views](https://visitcount.itsvg.in/api?id=HimalEranganaOfficial&icon=6&color=1)
+  ![](https://komarev.com/ghpvc/?username=HimalEranganaOfficial&style=for-the-badge&color=39FF14)
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%"/>
 
