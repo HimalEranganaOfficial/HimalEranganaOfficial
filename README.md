@@ -3,7 +3,7 @@
 
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=230&section=header&text=Himal%20Erangana&fontSize=50&fontColor=e6edf3&fontAlignY=35&desc=Explorer%20%7C%20Builder%20%7C%20Open%20Source%20Enthusiast&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn)
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Undergraduate+%40+University+of+Kelaniya+%F0%9F%8E%93;Building+things+that+matter+from+scratch+%F0%9F%9B%A0%EF%B8%8F;Open+Source+%7C+AI%2FML+%7C+IoT+%7C+Embedded+Systems+%F0%9F%94%AC;I+learn+when+I+need+to+build+something+with+it+%F0%9F%9A%80" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Undergraduate+%40+University+of+Kelaniya+%F0%9F%8E%93%3BBuilding+things+that+matter+from+scratch+%F0%9F%9B%A0%EF%B8%8F%3BOpen+Source+%7C+AI%2FML+%7C+IoT+%7C+Embedded+Systems+%F0%9F%94%AC%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 </div>
 
